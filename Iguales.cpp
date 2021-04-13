@@ -72,3 +72,4 @@ Iguales(ListaOrdenada L1, ListaOrdenada L2)
     }
   retornar iguales
   }
+
